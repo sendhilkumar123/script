@@ -22,3 +22,5 @@ mv apache-tomcat-9.0.75 tomcat
 
 echo "Start Tomcat server"
 bash /opt/tomcat/bin/startup.sh
+
+echo "script executed successfully"
