@@ -1,0 +1,16 @@
+#these are the files to be avoided
+
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.gitconfig
+.install_nginx.bash.swp
+.lesshst
+.ssh/
+.tcshrc
+.tomcat.bash.swp
+.viminfo
+*.txt
+sendhilkumar/
